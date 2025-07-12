@@ -20,8 +20,8 @@ During .NET development, `bin` and `obj` folders accumulate build outputs and te
 3. When prompted, **enter the root path** of your solution or project directory.
 4. The tool will search for and delete all `bin` and `obj` folders under the specified path.
 
-## Example
-
+## Tutorial
+https://youtu.be/I-DfT3N7jwU
 
 
 The tool will display the folders it deletes and notify you when the process is complete.
